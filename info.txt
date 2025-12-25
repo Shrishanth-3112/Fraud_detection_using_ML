@@ -1,0 +1,17 @@
+Dataset Link:- https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset
+
+
+Running Process:-
+
+step1 :- open the spyder or vscode
+step2 :- Show Code
+step3 :- Open Jupyter Notebook
+step4 :- open the project folder(Code Folder)
+step5 :- next open Code folder, inside open Project Folder
+step6 :- Next Copy the Path of that Folder
+step7 :- Next open the anaconda prompt
+step8 :- Next Activate the environmental [command:- activate env]
+step9 :- past the copied folder Path 
+step10 :- Next run Command [python manage.py runserver]
+step11 :- You get sum hosting Adress [ http://127.0.0.1:8000/ ]
+step12 :- copy addres and past google
